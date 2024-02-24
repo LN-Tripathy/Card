@@ -54,7 +54,7 @@
 }
 @media (max-width: 300px){
     #order{
-        height: 40%;
+        height: 50%;
         flex-direction: column;
     }
     #amount-box p{
