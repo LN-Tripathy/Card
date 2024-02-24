@@ -68,6 +68,9 @@
     width: 60%;
     gap: 10px;
 }
+#amount-box p{
+    width: 80px;
+}
 #amount-box img{
     height: 55px;
     width: 50px;
